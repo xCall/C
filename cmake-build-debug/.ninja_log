@@ -1,0 +1,10 @@
+# ninja log v5
+1	247	6771069449863334	CMakeFiles/C.dir/main.c.obj	22ea6dc1adfa361b
+0	136	6771110900134994	CMakeFiles/C.dir/src/exec1/deposito.c.obj	2f1a0f2190e5b536
+138	382	6771110902435007	C.exe	b3afd218db27984e
+3	134	6771100077466739	CMakeFiles/C.dir/src/idade/idade.c.obj	a873fd0759c80316
+2	136	6771087389829559	CMakeFiles/C.dir/src/testprints/testePrint.c.obj	b4121510081226ae
+2	157	6771085602227437	CMakeFiles/C.dir/src/helloword/main.c.obj	80bfed52b5de2afc
+0	255	6771111788671654	build.ninja	37663b9598c23f7d
+3	160	6771108031343737	CMakeFiles/C.dir/src/exec1/media.c.obj	91319beec1bf0d
+3	135	6771105017689796	CMakeFiles/C.dir/src/exec1/antecessor.c.obj	40b2ba0cb479f6f4
